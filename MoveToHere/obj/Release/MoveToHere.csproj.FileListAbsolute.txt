@@ -1,0 +1,7 @@
+C:\Users\starlog\source\repos\MoveToHere\MoveToHere\bin\Release\MoveToHere.exe.config
+C:\Users\starlog\source\repos\MoveToHere\MoveToHere\bin\Release\MoveToHere.exe
+C:\Users\starlog\source\repos\MoveToHere\MoveToHere\bin\Release\MoveToHere.pdb
+C:\Users\starlog\source\repos\MoveToHere\MoveToHere\obj\Release\MoveToHere.csprojAssemblyReference.cache
+C:\Users\starlog\source\repos\MoveToHere\MoveToHere\obj\Release\MoveToHere.csproj.CoreCompileInputs.cache
+C:\Users\starlog\source\repos\MoveToHere\MoveToHere\obj\Release\MoveToHere.exe
+C:\Users\starlog\source\repos\MoveToHere\MoveToHere\obj\Release\MoveToHere.pdb
